@@ -1,4 +1,4 @@
-# ethereum-fraud-detection
+# Ethereum Fraud Detection
 This repo is for Natixis Hacktivity 2022 on Ethereum Fraud Detection.
 
 ## Problem Statement
