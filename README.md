@@ -13,11 +13,8 @@ Credit Source: Etherscan
 ![image](https://user-images.githubusercontent.com/45024501/198527980-428c3152-0e34-4b56-816f-3c9a0333b757.png)
 ![image](https://user-images.githubusercontent.com/45024501/198528030-7fe85cea-9ed8-483a-afbd-a8946307b8ca.png)
 
-## Feature Engineering
 
-## Modeling Tuning
-
-## Reference Paper and Documents
+## Related Paper and Documents
 - Paper: [Data Mining-based Ethereum Fraud Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8946232)
 - Paper: [LGBM: a machine learning approach for Ethereum fraud detection](https://link.springer.com/content/pdf/10.1007/s41870-022-00864-6.pdf)
 - Paper: [Credit card fraud detection using machine learning techniques](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8123782)
